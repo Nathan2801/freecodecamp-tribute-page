@@ -6,7 +6,7 @@ at [freecodecamp](https://freecodecamp.org).
 * I don't exactly know how to do a tribute, so I just ended
 up writing a fictional history... he he...
 
-* About the truth? Who knows someday I polish the history
+* About the truth? Who knows if someday I polish the history
 and end up by revealing the truth...
 
 ---
